@@ -10,7 +10,9 @@ The preferred installation method is via EDHM_UI; download the contents of this
 repository as a ZIP file and then import it via EDHM_UI and it'll handle the
 rest.
 
-# Manual installation on Windows
+## Manual installation
+
+### Windows
 
 Download and copy the contents of this repository to:
 
