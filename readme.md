@@ -22,4 +22,8 @@ C:\Users\<user>\EDHM_UI\ODYSS\Themes\Ambient.Impact.Synth
 
 replacing `<user>` with your Windows user account.
 
+### Linux
+
+Coming soon. 😉
+
 o7
