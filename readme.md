@@ -12,9 +12,25 @@ rest.
 
 ## Manual installation
 
+### Linux
+
+If you've followed [my guide and used my script to install EDHM UI via
+Bottles](https://ambientimpact.com/gaming/elite-dangerous/edhm-ui-on-linux-using-bottles),
+and you haven't changed the default theme location, it should be copied to:
+
+```
+$BOTTLE_PATH/drive_c/users/steamuser/EDHM_UI/ODYSS/Themes/Ambient.Impact.Synth
+```
+
+Where `$BOTTLE_PATH` is the path to the bottle. If you don't know where that is,
+open Bottles, click on the EDHM UI bottle, click the three dot menu (...) in the
+header, and choose "Browse Files" which should open at `$BOTTLE_PATH/drive_c/`
+and you can find your way from there.
+
 ### Windows
 
-Download and copy the contents of this repository to:
+If you haven't changed the default theme location, this theme should be copied
+to:
 
 ```
 C:\Users\<user>\EDHM_UI\ODYSS\Themes\Ambient.Impact.Synth
@@ -22,8 +38,6 @@ C:\Users\<user>\EDHM_UI\ODYSS\Themes\Ambient.Impact.Synth
 
 replacing `<user>` with your Windows user account.
 
-### Linux
+----
 
-Coming soon. 😉
-
-o7
+# o7
