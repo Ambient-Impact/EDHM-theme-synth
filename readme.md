@@ -1,4 +1,4 @@
-![A screenshot of the theme in-game](preview_full.jpg)
+![A screenshot of the theme in-game](Ambient.Impact.Synth.jpg)
 
 `Ambient.Impact.Synth` theme for the [Elite Dangerous HUD
 Mod](https://github.com/psychicEgg/EDHM). I recommend using

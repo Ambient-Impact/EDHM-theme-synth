@@ -6,8 +6,6 @@
         "theme": "Ambient.Impact.Synth",
         "author": "Ambient.Impact",
         "description": "Based on Pinkalicious Revolutions by Korobi with significant modifications.",
-        "thumbnail": "preview.jpg",
-        "preview": "preview_full.jpg",
         "color": null
     },
     "ui_groups": [
